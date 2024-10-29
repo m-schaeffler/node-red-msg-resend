@@ -1,12 +1,12 @@
 # node-red-contrib-msg-resend
 A Node Red node for resending flow messages.
 
-Thanks to Colin Law and Dave C-J for providing me the basic [idea](https://groups.google.com/forum/#!searchin/node-red/butenaers/node-red/lAPYt5fxyUM/anAiSRkiFgAJ) of this node. 
+Thanks to Bartbutenaers for the work I used to add some of my ideas to.
 
 ## Install
-Run the following npm command in your Node-RED user directory (typically ~/.node-red):
+
 ```
-npm install node-red-contrib-msg-resend
+$ npm install @mschaeffler/node-red-msg-resend
 ```
 
 ## Usage
